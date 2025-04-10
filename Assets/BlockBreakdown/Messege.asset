@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c1e6dee398624c409d4c32203a1ebe7, type: 3}
+  m_Name: Messege
+  m_EditorClassIdentifier: 
+  gameClear: "\u30B2\u30FC\u30E0\u30AF\u30EA\u30A2\n\u30B9\u30DA\u30FC\u30B9\u30AD\u30FC\u3067\u30EA\u30C8\u30E9\u30A4"
+  gameOver: "\u30B2\u30FC\u30E0\u30AA\u30FC\u30D0\u30FC\n\u30B9\u30DA\u30FC\u30B9\u30AD\u30FC\u3067\u30EA\u30C8\u30E9\u30A4"
+  gameStart: "\u53F3\u30AF\u30EA\u30C3\u30AF\u3067\u958B\u59CB\n"
+  gameRule: "\u79FB\u52D5\uFF1A\n\u3000A\u30AD\u30FC\u300C\u53F3\u300D\n\u3000D\u30AD\u30FC\u300C\u5DE6\u300D\n\u30B2\u30FC\u30E0\u30AF\u30EA\u30A2\uFF1A\n\u3000\u30D6\u30ED\u30C3\u30AF\u3092\u5168\u90E8\u524A\u9664\n\u30B2\u30FC\u30E0\u30AA\u30FC\u30D0\uFF1A\n\u3000\u30DC\u30FC\u30EB\u304C\u843D\u4E0B"
+  startUIText: "\u30D6\u30ED\u30C3\u30AF\u5D29\u3057"
+  startUIButton: "\u30B9\u30BF\u30FC\u30C8"
